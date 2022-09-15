@@ -1,0 +1,1 @@
+# github activity 集計バッチ
